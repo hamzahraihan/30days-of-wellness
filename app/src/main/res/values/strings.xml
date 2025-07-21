@@ -1,93 +1,123 @@
 <resources>
     <string name="app_name" translatable="false">30 Days of Wellness</string>
 
+    <string name="day1">Day 1</string>
     <string name="title1" translatable="false">Green Smoothie</string>
     <string name="description1" translatable="false">Kickstart your morning with a leafy, vitamin-rich smoothie.</string>
 
+    <string name="day2">Day 2</string>
     <string name="title2" translatable="false">Deep Breathing</string>
     <string name="description2" translatable="false">Spend 5 minutes focusing on deep inhales and exhales to calm the mind.</string>
 
+    <string name="day3">Day 3</string>
     <string name="title3" translatable="false">Home Cooking</string>
     <string name="description3" translatable="false">Prepare a healthy meal from scratch with fresh ingredients.</string>
 
+    <string name="day4">Day 4</string>
     <string name="title4" translatable="false">Health Check-Up</string>
     <string name="description4" translatable="false">Schedule a preventive check-up or health screening.</string>
 
+    <string name="day5">Day 5</string>
     <string name="title5" translatable="false">Try New Food</string>
     <string name="description5" translatable="false">Add an unfamiliar healthy ingredient—like quinoa or dragon fruit.</string>
 
+    <string name="day6">Day 6</string>
     <string name="title6" translatable="false">Yoga Stretch</string>
     <string name="description6" translatable="false">Do a 15-minute yoga flow to boost flexibility and relaxation.</string>
 
+    <string name="day7">Day 7</string>
     <string name="title7" translatable="false">Hydration Boost</string>
     <string name="description7" translatable="false">Aim for 8–10 glasses of water today to energize your body.</string>
 
+    <string name="day8">Day 8</string>
     <string name="title8" translatable="false">Digital Detox</string>
     <string name="description8" translatable="false">Take a break from screens—no social media or emails for a day.</string>
 
+    <string name="day9">Day 9</string>
     <string name="title9" translatable="false">Foot Pamper</string>
     <string name="description9" translatable="false">Go for a foot soak, massage, or fresh pedicure.</string>
 
+    <string name="day10">Day 10</string>
     <string name="title10" translatable="false">Cut the Sugar</string>
     <string name="description10" translatable="false">Swap sugary snacks for fruits or nuts.</string>
 
+    <string name="day11">Day 11</string>
     <string name="title11" translatable="false">Goal Setting</string>
     <string name="description11" translatable="false">Write down three meaningful personal goals.</string>
 
+    <string name="day12">Day 12</string>
     <string name="title12" translatable="false">Outdoor Walk</string>
     <string name="description12" translatable="false">Take a 20–30 minute walk outside to lift your mood.</string>
 
+    <string name="day13">Day 13</string>
     <string name="title13" translatable="false">Declutter Space</string>
     <string name="description13" translatable="false">Tidy a cluttered area to reduce stress.</string>
 
+    <string name="day14">Day 14</string>
     <string name="title14" translatable="false">New Recipe</string>
-    <string name="description14" translatable="false">Try cooking a healthy recipe you've never made before.</string>
+    <string name="description14" translatable="false">Try cooking a healthy recipe you\'ve never made before.</string>
 
+    <string name="day15">Day 15</string>
     <string name="title15" translatable="false">Strength Training</string>
     <string name="description15" translatable="false">Do a 15-minute bodyweight exercise routine.</string>
 
+    <string name="day16">Day 16</string>
     <string name="title16" translatable="false">Joy Time</string>
     <string name="description16" translatable="false">Spend time doing something you love—reading, painting, music.</string>
 
+    <string name="day17">Day 17</string>
     <string name="title17" translatable="false">Eat Greens</string>
     <string name="description17" translatable="false">Include a dark green vegetable at every meal.</string>
 
+    <string name="day18">Day 18</string>
     <string name="title18" translatable="false">Sleep Ritual</string>
     <string name="description18" translatable="false">Create a relaxing bedtime routine—no screens before bed.</string>
 
+    <string name="day19">Day 19</string>
     <string name="title19" translatable="false">Plan an Outing</string>
     <string name="description19" translatable="false">Schedule something to look forward to, like visiting a park or museum.</string>
 
+    <string name="day20">Day 20</string>
     <string name="title20" translatable="false">Reduce Salt</string>
     <string name="description20" translatable="false">Flavor meals with herbs instead of salt.</string>
 
+    <string name="day21">Day 21</string>
     <string name="title21" translatable="false">Cardio Burst</string>
     <string name="description21" translatable="false">Move your body—run, cycle, dance—for at least 30 minutes.</string>
 
+    <string name="day22">Day 22</string>
     <string name="title22" translatable="false">Speak Kindly to Yourself</string>
     <string name="description22" translatable="false">Replace negative self-talk with encouragement.</string>
 
+    <string name="day23">Day 23</string>
     <string name="title23" translatable="false">Add a Superfood</string>
     <string name="description23" translatable="false">Incorporate berries, nuts, seeds, or spirulina today.</string>
 
+    <string name="day24">Day 24</string>
     <string name="title24" translatable="false">Desk Stretches</string>
     <string name="description24" translatable="false">Do 1-minute stretches every hour at your desk.</string>
 
+    <string name="day25">Day 25</string>
     <string name="title25" translatable="false">Take the Stairs</string>
     <string name="description25" translatable="false">Choose stairs over elevator whenever possible.</string>
 
+    <string name="day26">Day 26</string>
     <string name="title26" translatable="false">Power Breakfast</string>
     <string name="description26" translatable="false">Eat a balanced breakfast: protein, whole grains, and fruit.</string>
 
+    <string name="day27">Day 27</string>
     <string name="title27" translatable="false">Cold Shower</string>
     <string name="description27" translatable="false">Add a 30-second burst of cold water to your shower.</string>
 
+    <string name="day28">Day 28</string>
     <string name="title28" translatable="false">Gratitude Journal</string>
-    <string name="description28" translatable="false">Write three things you're grateful for today.</string>
+    <string name="description28" translatable="false">Write three things you\'re grateful for today.</string>
 
+    <string name="day29">Day 29</string>
     <string name="title29" translatable="false">Mindfulness Break</string>
     <string name="description29" translatable="false">Pause for 5–10 minutes to meditate or reflect.</string>
 
+    <string name="day30">Day 30</string>
     <string name="title30" translatable="false">Build Your Routine</string>
     <string name="description30" translatable="false">Reflect on the month and design a long-term wellness plan.</string>
 </resources>
