@@ -22,9 +22,29 @@ val Typography = Typography(
         lineHeight = 24.sp,
         letterSpacing = 0.5.sp
     ),
+    bodyMedium = TextStyle(
+        fontFamily = NotoSans,
+        fontWeight = FontWeight.Normal,
+        fontSize = 14.sp,
+    ),
+    bodySmall = TextStyle(
+        fontFamily = NotoSans,
+        fontWeight = FontWeight.Normal,
+        fontSize = 12.sp,
+    ),
     displayLarge = TextStyle(
         fontFamily = NotoSans,
         fontWeight = FontWeight.Normal,
         fontSize = 30.sp
+    ),
+    displayMedium = TextStyle(
+        fontFamily = NotoSans,
+        fontWeight = FontWeight.Bold,
+        fontSize = 20.sp
+    ),
+    displaySmall = TextStyle(
+        fontFamily = NotoSans,
+        fontWeight = FontWeight.Bold,
+        fontSize = 20.sp
     )
 )
